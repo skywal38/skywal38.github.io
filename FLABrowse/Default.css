@@ -1,0 +1,96 @@
+
+h1 {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  display: block;
+}
+h2 {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  display: block;
+}
+h3 {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  display: block;
+}
+h4 {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+  display: block;
+}
+h5 {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  display: block;
+}
+h6 {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  display: block;
+}
+
+p {
+  font-family: Arial,Helvetica,sans-serif;
+  color:#000000;
+  font-size: 14px;
+  display: block;
+}
+a {
+  font-family: Arial,Helvetica,sans-serif;
+  color:#0066FF;
+  font-size: 14px;
+  display: inline;
+  text-decoration:underline;
+}
+
+center {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 14px;
+  text-align: center;
+  display: inline;
+}
+
+right {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 14px;
+  text-align: right;
+  display: inline;
+}
+
+large {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 24px;
+  display: inline;
+}
+small {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 8px;
+  display: inline;
+}
+
+title {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 0px;
+  color:#ffffff;
+  display: none;
+}
+table {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 18px;
+  color:#000000;
+  display:table
+}
+
+console {
+  font-family:Consolas;
+  color: #000000;
+  font-size: 14px;
+  display: block;
+}
